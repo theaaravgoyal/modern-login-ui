@@ -115,7 +115,7 @@ function App() {
       >
         <h1 className="text-4xl font-bold text-center">Hello, Friends!</h1>
 
-        <p className="text-center max-w-[300px]">
+        <p className="text-center">
           Register with your personal details to use all site features.
         </p>
 
@@ -140,7 +140,7 @@ function App() {
       >
         <h1 className="text-4xl font-bold text-center">Welcome Back!</h1>
 
-        <p className="text-center max-w-[300px]">
+        <p className="text-center`">
           Enter your personal details to use all site features.
         </p>
 
