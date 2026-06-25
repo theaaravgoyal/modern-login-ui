@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+*{
+  font-family:'Montserrat',sans-serif;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+:root{
+  --primary-light:#d0b0ff;
+  --primary-dark:#6600ff;
+  --white:#ffffff;
+  --black:#000000;
+  --grey:#ececec;
+}
+
+body{
+  background: linear-gradient(90deg, #f4effb, #c8a4ff);
+}
