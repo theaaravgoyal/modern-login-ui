@@ -22,9 +22,7 @@ Clean UI with:
 
 ## Installation
 
-Clone the repository:
-
-git clone https://github.com/yourusername/modern-login-ui.git
+Clone the repository
 
 Go to project directory:
 
@@ -45,10 +43,6 @@ npm run dev
 - Smooth transitions
 - Mobile-friendly design
 - Clean and reusable components
-
-## Screenshots
-
-(Add project screenshots here)
 
 ## Author
 
